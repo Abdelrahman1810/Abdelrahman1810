@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hi, I’m Abdelrahman
 
-<!--
-**Abdelrahman1810/Abdelrahman1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Flutter Developer - Junior Software Engineer 📱
+  - Undergraduate general Electrical engineer
+  - Sophomore at Faculty of Engineering Ain Shams University
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact info 💜
+
+<!-- <a href="https://github.com/Abdelrahman1810"><img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> -->
+
+<a href="http://wa.me/201061075354" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+
+<a href="https://www.linkedin.com/in/abdelrahman-mohammed-814a9022a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Gmail : abdelrahmansalby23@gmail.com 📫
+<hr>
+
+## Languages and Tools
+
+<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“Firebase” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+<img align="left" alt=“python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt=“Firebase” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
