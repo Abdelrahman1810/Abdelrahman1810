@@ -19,7 +19,8 @@ Gmail : abdelrahmansalby23@gmail.com 📫
 
 ## Languages and Tools
 
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" />
+<img align="left" alt=“Dart” width="110px" src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" />
+<img align="left" alt=“Dart” width="36px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
