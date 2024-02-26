@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Abdelrahman
 
-  - Undergraduate general Electrical engineer
-  - Sophomore at Faculty of Engineering Ain Shams University
+  - Undergraduate Electronics and Communication Engineer
+  - Junior at Faculty of Engineering Ain Shams University
+  - degital ic design and verification 
 
 <hr>
 
