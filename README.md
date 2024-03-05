@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Abdelrahman
 
-  - Undergraduate Electronics and Communication Engineer
-  - Junior at Faculty of Engineering Ain Shams University
-  - degital ic design and verification 
+Junior Electronics and Communication Engineering at Ain Shams University
 
 <hr>
 
@@ -16,8 +14,8 @@
 <a href="https://www.linkedin.com/in/abdelrahman-mohammed-814a9022a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Gmail : abdelrahmansalby23@gmail.com 📫
+<!-- 
 <hr>
-
 ## Languages and Tools
 
 <img align="left" alt=“Dart” width="110px" src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" />
@@ -25,4 +23,4 @@ Gmail : abdelrahmansalby23@gmail.com 📫
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
-
+-->
