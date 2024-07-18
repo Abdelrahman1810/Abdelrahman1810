@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdelrahman
 
-Junior Electronics and Communication Engineering at Ain Shams University
+Senior-1 Electronics and Communication Engineering at Ain Shams University
 
 <hr>
 
