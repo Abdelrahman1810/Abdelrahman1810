@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdelrahman
 
-Senior-1 Electronics and Communication Engineering at Ain Shams University
+Junior Digital Verification Engineering at SylvarisAI
 
 <hr>
 
